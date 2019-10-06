@@ -1,0 +1,28 @@
+body {
+    font-family: 'share Tech Mono', Arial, Helvetica, sans-serif;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNBcgal8wObAOcu4gGowVP0IhGZtzmLyX7YlyIJ__UYX6lleqENA
+    );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white
+}
+.section-title {font-size:200%;}
+.main-section-title {
+    font-size: 300%;
+    text-align: center;
+    color:whitesmoke
+}
+
+.character{
+    display:inline-block;
+    border-style:solid; 
+    border-color:green;
+    border-width: 3px;
+    cursor: pointer;
+    background-color:white;
+    
+}
+
+
